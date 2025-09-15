@@ -23,12 +23,12 @@ header {
 
 .chamada-texto {
     background-color: var(--amarelo);
-    color: var(--preto);
+    color: var(--branco)
     margin-right: 20px;/*margem a direita*/
 }
 
 .chamada {
-    background: rgb(251, 255, 0);
+    background: var(--lilas-claro)
      padding-bottom: 80px;/*espaçamento inferior*/
     padding-top: 80px;/*espaçamento superior*/
     display: flex;/*alterar a disposição*/
